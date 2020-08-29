@@ -1,12 +1,12 @@
-# Aurora Privacy Policy
+# App Store Privacy Policy
 ### Data collection using bug report tracking system.
 We implemented an automated bug reporting system that is transparent to
-the user. When Aurora crashes on an Android device, the user is shown a
+the user. When AppStore crashes on an Android device, the user is shown a
 dialog containing a summary of the information.
 
 The user may now opt to send the full details to the us in order to
 allow us to identify and hopefully fix the bug. When a user clicks the
-send button, Aurora composes an e-mail containing the details, allowing
+send button, AppStore composes an e-mail containing the details, allowing
 users to read the data and check exactly what data could be sent to us.
 
 Users can remove or anonymize data which they do not want to be shared.
@@ -22,7 +22,7 @@ The generated data contains the following information:
 * STACK TRACE (Stack trace of the issue/exception)
 * LOGCAT (Optional can be externally sent, covers last 200 lines)
 
-Aurora Bug hunter is implemented to not embed any personal data in the
+AppStore Bug hunter is implemented to not embed any personal data in the
 blob. However, we cannot guarantee that there won't be any personal data
 contained by accident. Also, we cannot control whether the user will add
 any personal data to the generated data, nor can we control whether
