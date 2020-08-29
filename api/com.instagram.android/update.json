@@ -1,0 +1,5 @@
+{
+	"version": "153.0.0.34.96 v5.2",
+	"changelog": "— New fix facebook authorization;\n— Fix video rewind;\n— Added ACRA (Application Crash Reports for Android);\n\nNote. Upgrade from version 3.0 is not possible. Update through the website: ",
+	"link": ""
+}
