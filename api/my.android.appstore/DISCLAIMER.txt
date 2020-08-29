@@ -1,6 +1,6 @@
                                 Disclaimer
 
-Using Aurora Store with your personal Google Account may cause your account 
+Using App Store with your personal Google Account may cause your account 
 to be blocked | blacklisted by Google.
 
 As per Google's TermsOfServices 3.3
