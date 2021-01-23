@@ -7,6 +7,7 @@
 - [ ] Contact
 - [ ] Gallery
 - [ ] Messaging
+- [ ] Keyboard
 
 ## APPS
 - [ ] FOSS Store : F-Droid client
@@ -30,9 +31,11 @@
 - [ ] Twitter , Mastodon
 
 ## Chat
+- [ ] WhatsApp : i know but my fam use it :(
 - [ ] Telegram
 - [ ] XMPP Client
 - [ ] IRC Client
+- [ ] Matrix Client
 - [ ] eMail Client
 
 ## Browser
@@ -44,3 +47,7 @@
 - [ ] Firewall
 - [ ] /etc/hosts
 - [ ] Download
+
+## Documents
+- [ ] Manga Reader
+- [ ] Book Reader
