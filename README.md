@@ -21,7 +21,7 @@
 - [ ] Recorder
 
 ## Video
-- [ ] Video Player : mpv | vlc
+- [ ] Video Player : mpv or vlc
 - [ ] Youtube , PeerTube , LBRY , Twitch
 
 ## Social Media
